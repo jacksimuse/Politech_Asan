@@ -1,0 +1,7 @@
+C:\Users\gram\source\repos\아산폴리텍\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\gram\source\repos\아산폴리텍\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\gram\source\repos\아산폴리텍\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\gram\source\repos\아산폴리텍\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\gram\source\repos\아산폴리텍\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\gram\source\repos\아산폴리텍\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\gram\source\repos\아산폴리텍\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
