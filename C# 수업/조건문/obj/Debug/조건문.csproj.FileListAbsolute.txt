@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\조건문\bin\Debug\조건문.exe.config
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\조건문\bin\Debug\조건문.exe
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\조건문\bin\Debug\조건문.pdb
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\조건문\obj\Debug\조건문.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\조건문\obj\Debug\조건문.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\조건문\obj\Debug\조건문.exe
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\조건문\obj\Debug\조건문.pdb
