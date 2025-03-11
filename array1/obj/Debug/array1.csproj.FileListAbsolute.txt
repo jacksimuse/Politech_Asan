@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\array1\bin\Debug\array1.exe.config
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\array1\bin\Debug\array1.exe
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\array1\bin\Debug\array1.pdb
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\array1\obj\Debug\array1.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\array1\obj\Debug\array1.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\array1\obj\Debug\array1.exe
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\array1\obj\Debug\array1.pdb
