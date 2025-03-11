@@ -1,0 +1,7 @@
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\HelloWorld\obj\Debug\HelloWorld.pdb
