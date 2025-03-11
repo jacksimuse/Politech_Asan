@@ -1,7 +1,0 @@
-C:\Users\gram\source\repos\아산폴리텍\types\types\bin\Debug\types.exe.config
-C:\Users\gram\source\repos\아산폴리텍\types\types\bin\Debug\types.exe
-C:\Users\gram\source\repos\아산폴리텍\types\types\bin\Debug\types.pdb
-C:\Users\gram\source\repos\아산폴리텍\types\types\obj\Debug\types.csproj.AssemblyReference.cache
-C:\Users\gram\source\repos\아산폴리텍\types\types\obj\Debug\types.csproj.CoreCompileInputs.cache
-C:\Users\gram\source\repos\아산폴리텍\types\types\obj\Debug\types.exe
-C:\Users\gram\source\repos\아산폴리텍\types\types\obj\Debug\types.pdb
