@@ -1,7 +1,0 @@
-C:\Users\gram\source\repos\아산폴리텍\convert\convert\bin\Debug\convert.exe.config
-C:\Users\gram\source\repos\아산폴리텍\convert\convert\bin\Debug\convert.exe
-C:\Users\gram\source\repos\아산폴리텍\convert\convert\bin\Debug\convert.pdb
-C:\Users\gram\source\repos\아산폴리텍\convert\convert\obj\Debug\convert.csproj.AssemblyReference.cache
-C:\Users\gram\source\repos\아산폴리텍\convert\convert\obj\Debug\convert.csproj.CoreCompileInputs.cache
-C:\Users\gram\source\repos\아산폴리텍\convert\convert\obj\Debug\convert.exe
-C:\Users\gram\source\repos\아산폴리텍\convert\convert\obj\Debug\convert.pdb
