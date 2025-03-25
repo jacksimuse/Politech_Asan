@@ -1,0 +1,7 @@
+D:\bool\bin\Debug\@bool.exe.config
+D:\bool\bin\Debug\@bool.exe
+D:\bool\bin\Debug\@bool.pdb
+D:\bool\obj\Debug\bool.csproj.AssemblyReference.cache
+D:\bool\obj\Debug\bool.csproj.CoreCompileInputs.cache
+D:\bool\obj\Debug\@bool.exe
+D:\bool\obj\Debug\@bool.pdb
