@@ -1,7 +1,0 @@
-C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\convert\bin\Debug\convert.exe.config
-C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\convert\bin\Debug\convert.exe
-C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\convert\bin\Debug\convert.pdb
-C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\convert\obj\Debug\convert.csproj.AssemblyReference.cache
-C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\convert\obj\Debug\convert.csproj.CoreCompileInputs.cache
-C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\convert\obj\Debug\convert.exe
-C:\Users\메카트로닉스\Documents\아산폴리텍\아산폴리텍2\convert\obj\Debug\convert.pdb
