@@ -1,0 +1,7 @@
+D:\1_convert\bin\Debug\1_convert.exe.config
+D:\1_convert\bin\Debug\1_convert.exe
+D:\1_convert\bin\Debug\1_convert.pdb
+D:\1_convert\obj\Debug\1_convert.csproj.AssemblyReference.cache
+D:\1_convert\obj\Debug\1_convert.csproj.CoreCompileInputs.cache
+D:\1_convert\obj\Debug\1_convert.exe
+D:\1_convert\obj\Debug\1_convert.pdb
