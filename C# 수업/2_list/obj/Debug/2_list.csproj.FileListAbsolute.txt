@@ -1,0 +1,7 @@
+D:\2_list\bin\Debug\2_list.exe.config
+D:\2_list\bin\Debug\2_list.exe
+D:\2_list\bin\Debug\2_list.pdb
+D:\2_list\obj\Debug\2_list.csproj.AssemblyReference.cache
+D:\2_list\obj\Debug\2_list.csproj.CoreCompileInputs.cache
+D:\2_list\obj\Debug\2_list.exe
+D:\2_list\obj\Debug\2_list.pdb

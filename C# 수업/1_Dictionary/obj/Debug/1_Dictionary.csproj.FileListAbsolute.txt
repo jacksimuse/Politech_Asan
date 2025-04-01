@@ -1,0 +1,7 @@
+D:\1_Dictionary\bin\Debug\1_Dictionary.exe.config
+D:\1_Dictionary\bin\Debug\1_Dictionary.exe
+D:\1_Dictionary\bin\Debug\1_Dictionary.pdb
+D:\1_Dictionary\obj\Debug\1_Dictionary.csproj.AssemblyReference.cache
+D:\1_Dictionary\obj\Debug\1_Dictionary.csproj.CoreCompileInputs.cache
+D:\1_Dictionary\obj\Debug\1_Dictionary.exe
+D:\1_Dictionary\obj\Debug\1_Dictionary.pdb
