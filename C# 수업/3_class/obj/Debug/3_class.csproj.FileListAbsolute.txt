@@ -1,0 +1,7 @@
+D:\3_class\bin\Debug\3_class.exe.config
+D:\3_class\bin\Debug\3_class.exe
+D:\3_class\bin\Debug\3_class.pdb
+D:\3_class\obj\Debug\3_class.csproj.AssemblyReference.cache
+D:\3_class\obj\Debug\3_class.csproj.CoreCompileInputs.cache
+D:\3_class\obj\Debug\3_class.exe
+D:\3_class\obj\Debug\3_class.pdb
