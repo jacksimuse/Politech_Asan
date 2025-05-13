@@ -1,0 +1,11 @@
+D:\winform\CSV\bin\Debug\CSV.exe.config
+D:\winform\CSV\bin\Debug\CSV.exe
+D:\winform\CSV\bin\Debug\CSV.pdb
+D:\winform\CSV\obj\Debug\CSV.csproj.AssemblyReference.cache
+D:\winform\CSV\obj\Debug\CSV.Properties.Resources.resources
+D:\winform\CSV\obj\Debug\CSV.csproj.GenerateResource.cache
+D:\winform\CSV\obj\Debug\CSV.csproj.CoreCompileInputs.cache
+D:\winform\CSV\obj\Debug\CSV.exe
+D:\winform\CSV\obj\Debug\CSV.pdb
+D:\winform\CSV\obj\Debug\CSV.CSVRead.resources
+D:\winform\CSV\obj\Debug\CSV.CSVWrite.resources
