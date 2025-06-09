@@ -79,103 +79,11 @@ namespace 양솔2_편솔1_수동자동제어
             label15.Text = Count.ToString(); //동작 횟수 숫자
            
         }
-        //int mode = 0; 자동운전 1, 자동운전 횟수지정2 교수님이 지정해주신 변수 . 나는 A
-        //int count = 0; 자동운전 횟수 지정 카운터
+     
       
 
 
-private void timer2_Tick(object sender, EventArgs e)
-        //재우씨가 해준거
-        //{
-        //    Readdata = CIFX.xChannelRead(); // 최신 데이터 읽기
-        //    int Counting = Convert.ToInt32(numericUpDown1.Value);
-
-        //    if (A == 1 || (A == 2 && Count < Counting))
-        //    {
-        //        switch (Auto)
-        //        {
-        //            case 0: // 1번 동작: A전진 + C전진 명령
-        //                Writedata[0] = 0x11; // A+ (0x01) + C+ (0x10)
-        //                CIFX.xChannelWrite(Writedata);
-        //                Auto++;
-        //                break;
-
-        //            case 1: // A후진(0x02) + C후진(0x20) 감지되어야 함
-        //                if ((Readdata[18] & 0x02) != 0 && (Readdata[18] & 0x20) != 0)
-        //                {
-        //                    Writedata[0] = 0x20; // C 후진 명령만
-        //                    Writedata[0] &= unchecked((byte)~0x10); // C전진 OFF
-        //                    CIFX.xChannelWrite(Writedata);
-        //                    Auto++;
-        //                }
-        //                break;
-
-        //            case 2: // A후진 + B전진 + C전진 명령
-        //                if ((Readdata[18] & 0x02) != 0) // C 후진 완료 확인
-        //                {
-        //                    Writedata[0] = 0x16; // A- (0x02) + B+ (0x04) + C+ (0x10)
-        //                    Writedata[0] &= unchecked((byte)~0x08); // B 후진 OFF
-        //                    CIFX.xChannelWrite(Writedata);
-        //                    Auto++;
-        //                }
-        //                break;
-
-        //            case 3: // A후진 + B전진 + C전진 완료 확인
-        //                if ((Readdata[18] & 0x01) != 0 && (Readdata[18] & 0x08) != 0 && (Readdata[18] & 0x20) != 0)
-        //                {
-        //                    Writedata[0] = 0x20; // C 후진 명령
-        //                    Writedata[0] &= unchecked((byte)~0x10); // C전진 OFF
-        //                    CIFX.xChannelWrite(Writedata);
-        //                    Auto++;
-        //                }
-        //                break;
-
-        //            case 4: // C후진 완료
-        //                if ((Readdata[18] & 0x08) != 0)
-        //                {
-        //                    Writedata[0] = 0x19; // A+ (0x01) + B- (0x08) + C+ (0x10)
-        //                    Writedata[0] &= unchecked((byte)~0x02); // A 후진 OFF
-        //                    Writedata[0] &= unchecked((byte)~0x04); // B 전진 OFF
-        //                    CIFX.xChannelWrite(Writedata);
-        //                    Auto++;
-        //                }
-        //                break;
-
-        //            case 5: // A전진 + B후진 + C전진 완료 확인
-        //                if ((Readdata[18] & 0x02) != 0 && (Readdata[18] & 0x04) != 0 && (Readdata[18] & 0x20) != 0)
-        //                {
-        //                    Writedata[0] = 0x22; // A- (0x02) + C- (0x20)
-        //                    Writedata[0] &= unchecked((byte)~0x01); // A 전진 OFF
-        //                    Writedata[0] &= unchecked((byte)~0x10); // C 전진 OFF
-        //                    CIFX.xChannelWrite(Writedata);
-        //                    Auto++;
-        //                }
-        //                break;
-
-        //            case 6: // A후진 + C후진 완료 확인
-        //                if ((Readdata[18] & 0x01) != 0 && (Readdata[18] & 0x10) != 0)
-        //                {
-        //                    Count++;
-        //                    label15.Text = Count.ToString();
-        //                    if (Count >= Counting)
-        //                    {
-        //                        timer2.Stop();
-        //                        button2.BackColor = Color.LightGreen;
-        //                        button2.Text = "운전 완료";
-        //                        A = 0;
-
-        //                    }
-        //                    else
-        //                    {
-        //                        Auto = 0; // 싸이클 반복
-
-        //                    }
-        //                }
-        //                break;
-        //        }
-        //    }
-        //}
-
+        private void timer2_Tick(object sender, EventArgs e)
         {
             string ReadDataConv = Convert.ToString(Readdata[18], 2).PadLeft(8, '0');  // 최신 데이터
                                                                                       //int counting = convert.toint32(numericupdown1.value)
@@ -202,28 +110,6 @@ private void timer2_Tick(object sender, EventArgs e)
                             Autostop = false;
                         }
                         break;
-
-
-
-
-                    /*
-                                                // 기존 상태 유지하면서 c 실린더 후진 비트 on, c 전진 비트 off
-                                                writedata[0] |= 0x20; // bit5 on (c 후진)
-                                                writedata[0] &= unchecked((byte)~0x10); // bit4 off (c 전진)
-                                                cifx.xchannelwrite(writedata);
-                                                if (a != 3) auto++;
-                                                autostop = false;
-                                            }
-                                            break;
-                    */
-
-                    /*  if (ReadDataConv[6] == '1' && ReadDataConv[2] == '1') // c 실린더 후진 조건
-                      {
-                          writedata[0] = 0x20; // c 실린더 후진 값 설정
-                          cifx.xchannelwrite(writedata); // 데이터 전송
-                          auto++; // 상태 증가
-                      }
-                      break;*/
 
                     case 1: // c (후진)
                         if (ReadDataConv[7] == '0' && ReadDataConv[5] == '1' && ReadDataConv[3] == '0') // 실린더 3 후진 조건
@@ -380,15 +266,6 @@ private void timer2_Tick(object sender, EventArgs e)
                 button2.Text = "수동 운전 상태";
             }
            
-        }
-
-        private void button2_Click(object sender, EventArgs e) //동작 상태 표시
-        {
-
-        }
-        private void label13_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button3_Click(object sender, EventArgs e) //자동 운전
