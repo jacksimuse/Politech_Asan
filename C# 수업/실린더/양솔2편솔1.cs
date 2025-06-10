@@ -122,9 +122,9 @@ namespace 양솔2_편솔1_수동자동제어
                 cylinderStates.Clear();
             }
             cylinderStates.Add((
-                    ReadDataConv[7] == '1' ? 0 : 1,
-                    ReadDataConv[5] == '1' ? 0 : 1,
-                    ReadDataConv[3] == '1' ? 0 : 1
+                    ReadDataConv[7] == '1' ? 1:0,
+                    ReadDataConv[5] == '1' ? 1:0,
+                    ReadDataConv[3] == '1' ? 1:0
                 ));
 
             CreateCsv();
